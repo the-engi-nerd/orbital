@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "orbital"
+  site-url: "https://the-engi-nerd.github.io/orbital"
+  description: "Exploring orbital mechanics with Python and nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/the-engi-nerd/orbital"
